@@ -1,4 +1,4 @@
-# cybersecurity-projects-using-python
+## Cybersecurity Projects Using Python
 The cybersecurity scripts project aims to develop a collection of Python scripts for various cybersecurity tasks, including password hashing, password cracking, network scanning, vulnerability scanning, web scraping for security research, secure file handling, network packet analysis, and more
 
 Each script serves a specific purpose within the realm of cybersecurity, contributing to the overall goal of enhancing security measures and understanding vulnerabilities in systems and networks.
