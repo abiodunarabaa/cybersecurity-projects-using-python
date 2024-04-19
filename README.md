@@ -6,4 +6,3 @@ Each script serves a specific purpose within the realm of cybersecurity, contrib
 The scripts are designed to be efficient, reliable, and customizable, allowing cybersecurity professionals and enthusiasts to tailor them to their specific needs and environments.
 
 By providing a comprehensive set of cybersecurity scripts, this project aims to empower users with the tools and knowledge necessary to strengthen their security posture, identify potential threats, and mitigate risks effectively.
-
